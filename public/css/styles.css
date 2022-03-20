@@ -33,3 +33,14 @@ body {
 .container-border {
   border-color: black;
 }
+.item-container{
+  border-color: rgb(158, 154, 154);
+  border-radius: 15%;
+  padding: 5px;
+  margin: 5px;
+  text-align: center;
+}
+
+
+
+
